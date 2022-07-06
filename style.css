@@ -5,20 +5,22 @@ body {
 .donate-banar {
     background-image: url(images/donation0.jpg);
     background-repeat: no-repeat;
-    padding: 5px;
+    padding: 70px;
     background-size: cover;
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     box-shadow: 5px 5px 10px rgb(0, 0, 0);
 }
 
 .ban-h {
-    background-color: rgba(3, 0, 0, 0.5);
+    background-color: rgba(255, 255, 255, 0.781);
     padding: 0px;
 }
 
 .ban-p {
-    background-color: #00000062;
+    background-color: #0000008e;
+    color: #ffffff;
+    font-size: medium;
 }
 
 h1 {
