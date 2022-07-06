@@ -35,10 +35,10 @@ p {
     text-align: center;
 }
 
-section {
+.taka-am {
     display: flex;
     align-items: center;
-    padding: 10px 370px;
+    padding: 10px 270px;
 }
 
 .card {
@@ -64,4 +64,23 @@ section {
     border-bottom: 3px solid blue;
     border-left: none;
     padding: 5px 400px;
+}
+
+.flexible-container {
+    display: flex;
+
+
+}
+
+.model {
+    border: 2px solid rgb(179, 184, 175);
+    padding: 20px;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+.icon {
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
 }
