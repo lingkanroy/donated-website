@@ -3,24 +3,13 @@ body {
 }
 
 .donate-banar {
-    background-image: url(images/donation0.jpg);
+    background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
-    padding: 70px;
+    padding: 80px;
     background-size: cover;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     box-shadow: 5px 5px 10px rgb(0, 0, 0);
-}
-
-.ban-h {
-    background-color: rgba(255, 255, 255, 0.781);
-    padding: 0px;
-}
-
-.ban-p {
-    background-color: #0000008e;
-    color: #ffffff;
-    font-size: medium;
 }
 
 h1 {
@@ -31,7 +20,6 @@ h1 {
 
 p {
     font-size: 20px;
-
 }
 
 .button-click {
@@ -47,14 +35,11 @@ p {
     text-align: center;
 }
 
-
 section {
     display: flex;
     align-items: center;
     padding: 10px 370px;
-
 }
-
 
 .card {
     color: rgb(230, 38, 38);
@@ -79,6 +64,4 @@ section {
     border-bottom: 3px solid blue;
     border-left: none;
     padding: 5px 400px;
-
-
 }
