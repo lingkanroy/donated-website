@@ -1,0 +1,82 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.donate-banar {
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    padding: 5px;
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+.ban-h {
+    background-color: rgba(3, 0, 0, 0.5);
+    padding: 0px;
+}
+
+.ban-p {
+    background-color: #00000062;
+}
+
+h1 {
+    font-size: 70px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: 20px;
+
+}
+
+.button-click {
+    background-color: rgb(255, 0, 0);
+    padding: 10px 20px;
+    border-radius: 7px;
+    text-decoration: none;
+    color: aliceblue;
+    border: 1px solid rgba(0, 0, 0, 0.726);
+}
+
+.pament {
+    text-align: center;
+}
+
+
+section {
+    display: flex;
+    align-items: center;
+    padding: 10px 370px;
+
+}
+
+
+.card {
+    color: rgb(230, 38, 38);
+    background-color: #f1f1f1;
+    padding: 40px;
+    text-align: center;
+    border: 2px solid #f1f1f2;
+    margin: 10px;
+    position: center;
+    align-items: center;
+    border-radius: 4px;
+    font-size: 25px;
+}
+
+.two {
+    border: 2px solid rgb(231, 75, 75);
+}
+
+.other-amount {
+    border-top: none;
+    border-right: none;
+    border-bottom: 3px solid blue;
+    border-left: none;
+    padding: 5px 400px;
+
+
+}
