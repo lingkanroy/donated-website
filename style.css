@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 .donate-banar {
@@ -23,7 +24,7 @@ p {
 }
 
 .button-click {
-    background-color: rgb(255, 0, 0);
+    background-color: rgba(255, 15, 15, 0.986);
     padding: 10px 20px;
     border-radius: 7px;
     text-decoration: none;
@@ -38,7 +39,7 @@ p {
 .taka-am {
     display: flex;
     align-items: center;
-    padding: 10px 270px;
+    padding: 10px 275px;
 }
 
 .card {
@@ -76,13 +77,67 @@ p {
     margin: 50px;
     border-radius: 5px;
     box-shadow: 10px 10px 10px grey;
+}
+
+.foo {
     background-color: #ffc0c06e;
+    ;
+}
+
+.med {
+    background-color: #b9ffd875
+}
+
+.clo {
+    background-color: #c0f6ff93;
 }
 
 .icon {
     height: 100px;
     width: 100px;
     box-sizing: border-box;
+}
+
+.working {
+    border: 1px solid rgb(125, 129, 123);
+    padding: 4px;
+    height: 300px;
+    flex: 1;
+    margin: 5px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    box-shadow: 7px 7px 10px grey;
+    border-radius: 5px;
+
+
+}
+
+#trn1 {
+    background-image: url(images/tran1.jpg);
+}
+
+#trn2 {
+    background-image: url(images/tran3.jpg);
+}
+
+#trn3 {
+    background-image: url(images/tran2.jpg);
+    color: #f1f1f1;
+}
+
+#trn4 {
+    background-image: url(images/tran4.jpg);
+    color: #f1f1f1;
+}
+
+.enrol {
+    background-color: #a3f0b47e;
+    padding: 60px 205px;
+    margin: 50px 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
 }
 
 footer {
